@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         //update main activity
         //un staged
         //this is a change from master
+        //this is a change in second branch
     }
 }
