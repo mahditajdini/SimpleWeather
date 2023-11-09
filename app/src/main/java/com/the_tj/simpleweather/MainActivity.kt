@@ -11,7 +11,6 @@ class MainActivity : AppCompatActivity() {
         //my last change
         //update main activity
         //un staged
-        fgjf
-        gnvn
+        //this is a change from master
     }
 }
